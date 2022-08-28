@@ -1,7 +1,7 @@
 a. Leche
 b. Pan
 c. Lechuga
-d. Tomate
+d. Toamate
 e. Cebolla
 f. Queso Cremoso
 g. Huevo
