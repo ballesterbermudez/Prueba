@@ -4,3 +4,7 @@ c. Lechuga
 d. Tomate
 e. Cebolla
 f. Queso Cremoso
+g. Huevo
+h. Harina
+i. Aceite
+j. Vinagre
